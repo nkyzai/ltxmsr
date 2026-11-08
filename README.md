@@ -1,6 +1,6 @@
-# LTXMSR — Idea → Storyboard → Multi-Shot Video
+# CineGrapher — Idea → Storyboard → Multi-Shot Video
 
-**LTXMSR** is a local, desktop application that turns a simple video idea (a title, style and genres) into a coherent, multi-scene cinematic video — completely end to end.
+**CineGrapher** is a local, desktop application that turns a simple video idea (a title, style and genres) into a coherent, multi-scene cinematic video — completely end to end.
 
 A local LLM (via **Ollama**) storyboards the narrative, writes **LTX-2.5-compliant multi-shot prompts**, self-audits those prompts against the model's strict format rules, and then **ComfyUI** generates the actual video — with reference-image character consistency and native audio.
 
